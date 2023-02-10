@@ -1,1 +1,1 @@
-# Mathematics for Machine Learning and Data Science
+# Mathematics Labs for Machine Learning and Data Science
